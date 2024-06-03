@@ -1,7 +1,8 @@
 # -Help
 Esta aplicação é uma plataforma de gerenciamento de mídia desenvolvida utilizando Node.js, Express, MongoDB e React.js.
 
-
+# IP AWS 
+http://52.67.79.208:3000/
 ## Funcionalidades Principais
 - Autenticação de Usuário: Criação de conta e login.
 - Listagem de Filmes: Exibição de filmes recomendados e funcionalidade de busca.
